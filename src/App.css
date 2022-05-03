@@ -159,10 +159,11 @@ button{
   color: white;
   padding: 10px;
 }
+
 .description{
   margin-top: 20px;
   columns: 2;
-  border
+  display: block;
 }
 
 
